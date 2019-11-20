@@ -40,7 +40,7 @@ class Ui_MainWindow(object):
         _translate = QtCore.QCoreApplication.translate
         MainWindow.setWindowTitle(_translate("MainWindow", "MainWindow"))
         self.button_show.setText(_translate("MainWindow", "Show"))
-
+        #
 
 if __name__ == "__main__":
     import sys
